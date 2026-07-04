@@ -23,11 +23,11 @@ A modern, responsive photography portfolio website built with HTML5, CSS3, and J
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/z23txr/my-1st-website.git
+   git clone https://github.com/z23txr/photopix-gallery.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd my-1st-website
+   cd photopix-gallery
    ```
 3. Open `index.html` directly in your web browser, or use a local development server such as VS Code Live Server.
 
